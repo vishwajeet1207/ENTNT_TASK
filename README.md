@@ -1,4 +1,5 @@
-![Admin Home](https://github.com/vishwajeet1207/ENTNT_TASK/assets/128240302/77bc1b7a-61e5-41aa-a75c-1b7fe11a6e22) # Home User
+
+## Home User
 ![User Home](https://github.com/vishwajeet1207/ENTNT_TASK/assets/128240302/2d8fff06-5c89-4d99-8ab2-8090007ff558)
 
 #SignUp
