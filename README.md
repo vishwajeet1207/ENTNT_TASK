@@ -25,10 +25,10 @@
 ![All Product](https://github.com/vishwajeet1207/ENTNT_TASK/assets/128240302/11bfc9ff-51f0-4092-8ee4-9543d140cce4)
 
 ### Database
-## users
+## Users
 ![Users](https://github.com/vishwajeet1207/ENTNT_TASK/assets/128240302/bdb5e83f-85f1-4540-a8a3-f41c4be5c208)
 
-## product
+## p=Product
 ![Product](https://github.com/vishwajeet1207/ENTNT_TASK/assets/128240302/5d89873c-317f-40ad-a4fb-1d59105aee0d)
 
 ## Order
