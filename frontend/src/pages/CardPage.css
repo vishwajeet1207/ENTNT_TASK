@@ -1,0 +1,7 @@
+@tailwind utilities{
+    .card{
+        margin-right: 5px;;
+        flex-direction: column;
+        width: 100%;
+    }
+}

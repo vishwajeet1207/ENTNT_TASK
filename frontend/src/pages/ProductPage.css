@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+@media screen and (max-width: 715px) {
+  .left {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+  }
+  .productd{
+    font-family: 'Bree Serif', serif;
+font-size: 25px;
+margin-top: 10px;
+  }
+  .mainimgcontainer{
+    height: 350px;
+    width: 100%;
+
+  }
+  .right{
+    margin-left: 0px;
+  }
+  .main{
+    flex-direction: column;
+    justify-content: space-between;
+
+  }
+  .title{
+    margin-left: 0px;
+  }
+  .subimgcontainer{
+    width: 25%;
+  }
+  .subimg{
+    height: 100px;
+    width: 100%;
+  }
+  .mainimg{
+    height: 100%;
+    width: 100%;
+  }
+}
+@media (min-width:715px) and (max-width:890px) {
+  .addtocard{
+    flex: 1;
+    padding: 16px;
+    text-Align: center;
+    color: white;
+    margin: 5px;
+    font-Weight: bold;
+    border-Radius: 2px;
+    font-family: 'Rubik' ,'sans-serif';
+    background-Color: #ff9f00;
+  }
+  .main {
+    display: flex;
+    justify-content: space-between;
+  }
+  .title{
+    font-family: 'Bree Serif', serif;
+  }
+  .submain {
+  }
+  .right{
+    margin-left: 20px;
+    width: 50%;
+  }
+  .subimg {
+    flex: 1;
+    width: 100%;
+    height: 90px;
+    margin: 3px;
+    border: 2px solid #e0e0e0;
+  }
+  .mainimg {
+    width: 100%;
+    height: 100%;
+  }
+  .productd{
+    font-family: 'Bree Serif', serif;
+font-size: 25px;
+margin-top: 10px;
+  }
+  .left {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    justify-content: space-between;
+  }
+  .subimgcontainer{
+    display: flex;
+                  width: 20%;
+                  height: 60vh;
+                  flex-direction: column;
+  }
+  .mainimgcontainer{
+    width: 100%;
+                  height: 390px;
+                  margin: 5;
+                  border: 3px solid #e5e7eb;
+  }
+
+}
+@media screen and (min-width: 890px) {
+.addtocard{
+  flex: 1;
+  padding: 16px;
+  text-Align: center;
+  color: white;
+  margin: 5px;
+  font-Weight: bold;
+  border-Radius: 2px;
+  font-family: "Merriweather" ,"Sans", "sans-serif";
+  background-Color: #ff9f00;
+}
+.main {
+    display: flex;
+    justify-content: space-between;
+  }
+  .title{
+    font-family: 'Bree Serif', serif;
+  }
+  .submain {
+  }
+  .right{
+    margin-left: 20px;
+    width: 60%;
+  }
+  .subimg {
+    flex: 1;
+    width: 100%;
+    height: 90px;
+    margin: 3px;
+    border: 2px solid #e0e0e0;
+  }
+  .mainimg {
+    width: 100%;
+    height: 100%;
+  }
+  .productd{
+    font-family: 'Bree Serif', serif;
+font-size: 25px;
+margin-top: 10px;
+  }
+  .left {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    justify-content: space-between;
+  }
+  .subimgcontainer{
+    display: flex;
+                  width: 20%;
+                  height: 60vh;
+                  flex-direction: column;
+  }
+  .mainimgcontainer{
+    width: 100%;
+                  height: 390px;
+                  margin: 5;
+                  border: 3px solid #e5e7eb;
+  }
+}

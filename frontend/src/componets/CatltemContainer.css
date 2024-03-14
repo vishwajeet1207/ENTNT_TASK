@@ -1,0 +1,23 @@
+#itemheader{
+    font-family: 'Rubik', sans-serif;}
+    #card{
+        border-color: #e0e0e0;
+    }
+    .loading::after{
+        content: "";
+        height: 50px;
+        width: 50px;
+        border: 10px solid white;
+        border-top-color: rgb(37 99 235);
+        border-radius: 50%;
+        animation: loading 1s linear infinite;
+      }
+      .loading-container{
+          height: 60vh;
+      }
+      @keyframes loading {
+          to{
+              transform: rotate(1turn);
+          }
+          
+      }
